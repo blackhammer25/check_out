@@ -5,7 +5,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Building..'
-                bat ' python prime.py'
+                bat ' python prime.py 27'
                 
             }
         }
