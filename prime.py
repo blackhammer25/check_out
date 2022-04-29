@@ -1,6 +1,6 @@
 
 
-num = int(input("Enter a number: "))
+num = 127
 
 # define a flag variable
 flag = False
